@@ -1,0 +1,7 @@
+{
+  "name": "git-branch",
+  "version": "0.1.0",
+  "description": "Shows the current git branch in the status line",
+  "author": { "name": "Michael Good" },
+  "types": "./types/index.d.ts"
+}

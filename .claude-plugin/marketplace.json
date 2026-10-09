@@ -1,0 +1,13 @@
+{
+  "name": "git-branch",
+  "description": "Shows the current git branch in the status line",
+  "owner": { "name": "Michael Good" },
+  "plugins": [
+    {
+      "name": "git-branch",
+      "source": "./",
+      "description": "Shows the current git branch in the status line",
+      "version": "0.1.0"
+    }
+  ]
+}
